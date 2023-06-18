@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudha 
-- 👀 I’m interested in web development  
+- 👀 I’m interested in Data Engineer 
 - 🌱 I’m currently learning python
 - 📫 How to reach me https://www.linkedin.com/in/sudha-rani-05947a167
 - <!---
