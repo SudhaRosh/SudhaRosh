@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sudha 
 - 👀 I’m interested in Data Engineer 
-- 🌱 I’m currently learning python
+- 🌱 python
+-    Machine learning 
 - 📫 How to reach me https://www.linkedin.com/in/sudha-rani-05947a167
 - <!---
 SudhaRosh/SudhaRosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
